@@ -9,7 +9,11 @@ This paper demonstrates the efficacy of deep reinforcement learning techniques i
 
 A demonstration of the mapless motion planner in action:
 
-![Demo_GIF](https://github.com/user-attachments/assets/afb6349a-7aff-4b2e-a9f1-72b100d040a9)
+
+https://github.com/user-attachments/assets/0b70118c-fdc6-4269-a863-4dbbd51b6dd7
+
+
+
 
 ## Project Overview: Learning-Based Mapless Motion Planner
 ### Input Specifications (State):
