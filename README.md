@@ -9,6 +9,7 @@ This paper demonstrates the efficacy of deep reinforcement learning techniques i
 
 A demonstration of the mapless motion planner in action:
 
+## Project Overview: Learning-Based Mapless Motion Planner
 ### Input Specifications (State):
 
 The input features, forming a 16-dimensional state, include:
